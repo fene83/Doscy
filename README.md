@@ -1,0 +1,2 @@
+# Doscy
+Decentralized Social Community 
